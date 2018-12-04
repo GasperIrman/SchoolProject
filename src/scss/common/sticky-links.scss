@@ -1,0 +1,11 @@
+.sticky-links{
+	background-color: #ccc;
+	position: fixed;
+	right: 0;
+	top: 20%;
+	.link-item{
+		transform: rotate(-90deg);
+		padding-top: 50px;
+		padding-bottom: 60px;
+	}
+}
